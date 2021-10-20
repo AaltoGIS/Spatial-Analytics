@@ -2,9 +2,20 @@
 
 **Spatial Analytics** -course
 
-After completing this course, you should:
+Learning objectives
+-------------------
 
-**Prerequirements**
+After this course the student should:
+
+- understand the typical data analysis workflow
+- understand the basics of geostatistics and the associated terminology and mathematical principles
+- understand the basic principles of map overlay and map algebra
+- understand the principles of graph theory and network analysis
+- understand the basic principles of spatio-temporal multivariate analysis
+- be able to apply the previous concepts to different geographical problems using Python programming language
+
+Prerequirements
+---------------
 
 Before taking this course, it is required to know the basics of Python programming as well as GIS.
 If you are new to Python, or would like to refresh your Python skills, we recommend to start with an online

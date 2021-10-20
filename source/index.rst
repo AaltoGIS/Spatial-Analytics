@@ -1,6 +1,7 @@
 .. figure:: img/aisa_banner.png
 
-**Spatial Analytics** -course
+Welcome to Spatial Analytics 2021 -course
+-----------------------------------------
 
 Learning objectives
 -------------------

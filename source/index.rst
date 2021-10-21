@@ -1,4 +1,4 @@
-.. figure:: img/aisa_banner.png
+.. figure:: img/Spatial-analytics-logo.png
 
 Welcome to Spatial Analytics 2021 -course
 =========================================

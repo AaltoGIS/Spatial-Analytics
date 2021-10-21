@@ -1,14 +1,14 @@
 .. figure:: img/Spatial-analytics-logo.png
 
-Welcome to Spatial Analytics 2021 -course
-=========================================
-
-Add description.
+**Spatial analytics** -course introduces you to different analysis approaches and methods of spatio-statistical analysis, geostatistics, map algebra
+and geovisual analysis. After the course, you can identify appropriate analysis approaches for different geospatial tasks,
+and describe data needs and suitable methods for the given analysis process. You can discuss the strengths and limitations of the methods.
+The course has been developed at the Department of Built Environment, Aalto University, Finland, and the materials are openly available for anyone interested.
 
 Learning objectives
 -------------------
 
-After this course the student should:
+After completing this course, you should:
 
 - understand the typical data analysis workflow
 - understand the basics of geostatistics and the associated terminology and mathematical principles

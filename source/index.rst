@@ -136,6 +136,7 @@ Contents
    course-info/introduction
    course-info/course-info
    course-info/learning-goals
+   course-info/resources
    course-info/grading
    course-info/course-environment-components
    course-info/slack-usage

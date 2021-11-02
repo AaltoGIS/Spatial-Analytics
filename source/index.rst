@@ -130,8 +130,8 @@ Contents
 --------
 
 .. toctree::
-   :maxdepth: 1
-   :caption: Course information
+    :maxdepth: 1
+    :caption: Course information
 
     course-info/introduction
     course-info/course-info
@@ -144,8 +144,8 @@ Contents
     course-info/attribution
 
 .. toctree::
-   :maxdepth: 1
-   :caption: Week 1
+    :maxdepth: 1
+    :caption: Week 1
 
     lessons/L1/Introduction-to-spatial-analysis
     lessons/L1/point-pattern-analysis

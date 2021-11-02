@@ -133,18 +133,23 @@ Contents
    :maxdepth: 1
    :caption: Course information
 
-   course-info/introduction
-   course-info/course-info
-   course-info/learning-goals
-   course-info/resources
-   course-info/grading
-   course-info/course-environment-components
-   course-info/slack-usage
-   course-info/License-terms
-   course-info/attribution
+    course-info/introduction
+    course-info/course-info
+    course-info/learning-goals
+    course-info/resources
+    course-info/grading
+    course-info/course-environment-components
+    course-info/slack-usage
+    course-info/License-terms
+    course-info/attribution
 
 .. toctree::
    :maxdepth: 1
-   :caption: Lesson 1
+   :caption: Week 1
+
+    lessons/L1/Introduction-to-spatial-analysis
+    lessons/L1/point-pattern-analysis
+    lessons/L1/intro-to-python-geostack.ipynb
+
 
 

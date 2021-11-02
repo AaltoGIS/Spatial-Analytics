@@ -48,7 +48,7 @@ Let's go through the basics of using Git. We will use Exercise-1 repository for 
 Let's take these two steps before continuing further:
 
 1. Make your own personal copy of the given Exercise by accepting a GitHub Classroom assignment (here :doc:`Exercise 1 <exercise-1>`
-2. Launch a `CSC Notebook programming environment <https://notebooks.csc.fi/#/blueprint/c54303e865294208ba1ef381332fd69b>`__
+2. Launch a `CSC Notebook programming environment <https://notebooks.csc.fi/#/blueprint/71ff547e8de945969fd096a04ab03bcf>`__
 
    - You can find instructions for using CSC Notebooks (+ Binder) in :doc:`here <../../course-info/course-environment-components>`.
 

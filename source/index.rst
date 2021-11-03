@@ -150,8 +150,9 @@ Contents
     lessons/L1/overview
     lessons/L1/introduction-to-spatial-analysis
     lessons/L1/point-pattern-analysis
-    lessons/L1/git-basics.rst
+    lessons/L1/git-basics
     lessons/L1/intro-to-python-geostack.ipynb
+    lessons/L1/exercise-1
 
 
 

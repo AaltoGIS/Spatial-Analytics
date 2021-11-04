@@ -7,7 +7,7 @@ The first week of this course will be dedicated to various introductions. We wil
 - :doc:`Introduction to spatial analysis <introduction-to-spatial-analysis>`
 - :doc:`Point pattern analysis <point-pattern-analysis>`
 - :doc:`Tutorial 1: Introduction to Git and using CSC Notebooks <git-basics>`
-- :doc:`Tutorial 2: Introduction to Spatial Data Science using Python <intro-to-python-geostack>`
+- :doc:`Tutorial 2: Introduction to Python for geospatial analysis <intro-to-python-geostack>`
 
 Lesson videos
 -------------

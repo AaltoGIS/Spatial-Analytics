@@ -155,5 +155,9 @@ Contents
     lessons/L1/intro-to-python-geostack.ipynb
     lessons/L1/exercise-1
 
+.. toctree::
+    :maxdepth: 1
+    :caption: Week 2
 
-
+    lessons/L2/overview
+    lessons/L2/analysis-of-spatial-field-data

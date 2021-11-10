@@ -7,3 +7,14 @@ In this week, we will learn about:
 
 Lesson videos
 -------------
+
+To ensure the privacy of participating students at online sessions, the videos will not be made publicly available in 2021.
+
+.. admonition:: Lesson 2.1 - Analysis of spatial field data, spatial sampling and interpolation
+
+    Aalto University students can access the video by clicking the image below (requires login):
+
+    .. figure:: img/Lesson2.1.png
+        :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=9c20cfec-2e71-4c53-94d8-addc008b4a7a
+        :width: 500px
+        :align: left

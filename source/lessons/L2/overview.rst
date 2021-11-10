@@ -18,3 +18,12 @@ To ensure the privacy of participating students at online sessions, the videos w
         :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=9c20cfec-2e71-4c53-94d8-addc008b4a7a
         :width: 500px
         :align: left
+
+.. admonition:: Exercise 2 - Overview
+
+    Aalto University students can access the video by clicking the image below (requires login):
+
+    .. figure:: img/Lesson2.1.png
+        :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=bc1f3e72-a44f-47c5-ad79-addc00fdb0b8
+        :width: 500px
+        :align: left

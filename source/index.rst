@@ -161,3 +161,4 @@ Contents
 
     lessons/L2/overview
     lessons/L2/analysis-of-spatial-field-data
+    lessons/L2/exercise-2

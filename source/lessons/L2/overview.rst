@@ -23,7 +23,7 @@ To ensure the privacy of participating students at online sessions, the videos w
 
     Aalto University students can access the video by clicking the image below (requires login):
 
-    .. figure:: img/Lesson2.1.png
+    .. figure:: img/Lesson2-E2.png
         :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=bc1f3e72-a44f-47c5-ad79-addc00fdb0b8
         :width: 500px
         :align: left

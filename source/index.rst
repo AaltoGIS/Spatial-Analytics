@@ -163,3 +163,11 @@ Contents
     lessons/L2/analysis-of-spatial-field-data
     lessons/L2/geostatistics-kriging.rst
     lessons/L2/exercise-2
+
+.. toctree::
+    :maxdepth: 1
+    :caption: Week 3
+
+    lessons/L3/overview
+    lessons/L3/map-overlay
+

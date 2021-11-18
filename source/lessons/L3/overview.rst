@@ -4,6 +4,8 @@ Overview
 In this week, we will learn about:
 
 - :doc:`Map overlay and map algebra <map-overlay>`
+- :doc:`Spatial network analysis <spatial-network-analysis>`
+
 
 Lesson videos
 -------------

@@ -170,4 +170,5 @@ Contents
 
     lessons/L3/overview
     lessons/L3/map-overlay
+    lessons/L3/spatial-network-analysis
 

@@ -179,3 +179,4 @@ Contents
 
     lessons/L4/overview
     lessons/L4/spatial-network-optimization-centrality
+    lessons/L4/multivariate-spatial-analysis

@@ -96,35 +96,30 @@ Topics per Lesson are listed below. Please note that this web page is updated ea
     * - Lesson
       - Themes
     * - 1
-      - - What is spatial analysis?
-        - Data Analysis pipeline
-        - Pitfalls and potential of spatial data
-        - Course practicalities
+      - Course overview and practicalities
+      - Introduction to spatial analysis
+
     * - 2
-      - - Maps as outcome of processes
-        - Point pattern analysis
+      - - Point pattern analysis
+      - - Spatial autocorrelation
+      - - Git+Python tutorials
     * - 3
-      - - Spatial sampling, composition and configuration
+      - - Analysis of spatial field data
     * - 4
-      - - Local statistics: Hot and cold spots
+      - - Geostatistics: Interpolation (IDW+Kriging)
     * - 5
-      - - Spatial variance and covariance with geostatistics
-        - Semivariogram, Cokriging
-    * - 6
-      - - Spatial interpolation
-    * - 7
       - - Map overlay
         - Map algebra
+    * - 6
+      - - Introduction to spatial network analysis
+    * - 7
+      - - Optimization problems based on spatial networks
+        - Network centrality
     * - 8
-      - - Graph theory
-        - Spatial network analysis
-    * - 9
       - - Multivariate spatial analysis
-        - Clustering
-    * - 10
+    * - 9
       - - Visual analytics
 |
-
 
 Contents
 --------

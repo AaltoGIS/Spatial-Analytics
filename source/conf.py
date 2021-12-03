@@ -71,7 +71,7 @@ html_theme_options = {
     "repository_url": "https://github.com/AaltoGIS/Spatial-Analytics/",
     "repository_branch": "master",
     "path_to_docs": "source/",
-    "google_analytics_id": "",
+    "google_analytics_id": "UA-214280609-1",
     "use_edit_page_button": True,
     "use_repository_button": True,
     "launch_buttons": {

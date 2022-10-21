@@ -29,9 +29,9 @@ at `autogis.github.io <https://autogis.github.io/>`__. Both of these courses inc
 
 .. admonition:: Help improving the materials
 
-    **This is version 1.**
+    **This is version 2.**
 
-    The course is given in its current form for the very first time in 2021, meaning that the content of the course is likely to change and
+    The course was given for the very first time in its current form in 2021, meaning that the content of the course is likely to change and
     improve after each time the course is given (all versions will be available). By being a fully open
     educational resource, **you can also help making the course better**.
     If you find any errors, typos, or other problems, please help, by suggesting an edit in GitHub. You can do this easily by clicking
@@ -84,7 +84,7 @@ discuss and work together with other students while working on the weekly exerci
 Program
 -------
 
-The course includes two lectures per week and is held at the Aalto University starting in the second teaching period on Tuesday November 2nd, 2021.
+The course includes two lectures per week and is held at the Aalto University starting on Tuesday in the second teaching period.
 Topics per Lesson are listed below. Please note that this web page is updated each week before the given lesson:
 
 .. list-table::
@@ -96,25 +96,22 @@ Topics per Lesson are listed below. Please note that this web page is updated ea
     * - Lesson
       - Themes
     * - 1
-      - Course overview and practicalities
-      - Introduction to spatial analysis
-
+      - - Course overview and practicalities
+        - Introduction to spatial analysis
+        - Point pattern analysis
     * - 2
-      - - Point pattern analysis
       - - Spatial autocorrelation
-      - - Git+Python tutorials
+        - Git+Python tutorials
     * - 3
       - - Analysis of spatial field data
     * - 4
       - - Geostatistics: Interpolation (IDW+Kriging)
     * - 5
-      - - Map overlay
-        - Map algebra
+      - - Map overlay & algebra
     * - 6
-      - - Introduction to spatial network analysis
+      - - Spatial network analysis
     * - 7
-      - - Optimization problems based on spatial networks
-        - Network centrality
+      - - Spatial networks: Optimization & centrality
     * - 8
       - - Multivariate spatial analysis
     * - 9
@@ -145,42 +142,45 @@ Contents
     lessons/L1/overview
     lessons/L1/introduction-to-spatial-analysis
     lessons/L1/point-pattern-analysis
+
+..
     lessons/L1/spatial-autocorrelation
     lessons/L1/git-basics
     lessons/L1/intro-to-python-geostack.ipynb
     lessons/L1/exercise-1
 
-.. toctree::
-    :maxdepth: 1
-    :caption: Week 2
 
-    lessons/L2/overview
-    lessons/L2/analysis-of-spatial-field-data
-    lessons/L2/geostatistics-kriging.rst
-    lessons/L2/exercise-2
+    .. toctree::
+        :maxdepth: 1
+        :caption: Week 2
 
-.. toctree::
-    :maxdepth: 1
-    :caption: Week 3
+        lessons/L2/overview
+        lessons/L2/analysis-of-spatial-field-data
+        lessons/L2/geostatistics-kriging.rst
+        lessons/L2/exercise-2
 
-    lessons/L3/overview
-    lessons/L3/map-overlay
-    lessons/L3/spatial-network-analysis
-    lessons/L3/exercise-3
+    .. toctree::
+        :maxdepth: 1
+        :caption: Week 3
 
-.. toctree::
-    :maxdepth: 1
-    :caption: Week 4
+        lessons/L3/overview
+        lessons/L3/map-overlay
+        lessons/L3/spatial-network-analysis
+        lessons/L3/exercise-3
 
-    lessons/L4/overview
-    lessons/L4/spatial-network-optimization-centrality
-    lessons/L4/multivariate-spatial-analysis
-    lessons/L4/exercise-4
+    .. toctree::
+        :maxdepth: 1
+        :caption: Week 4
 
-.. toctree::
-    :maxdepth: 1
-    :caption: Week 5
+        lessons/L4/overview
+        lessons/L4/spatial-network-optimization-centrality
+        lessons/L4/multivariate-spatial-analysis
+        lessons/L4/exercise-4
 
-    lessons/L5/overview
-    lessons/L5/visual-analytics
+    .. toctree::
+        :maxdepth: 1
+        :caption: Week 5
+
+        lessons/L5/overview
+        lessons/L5/visual-analytics
 

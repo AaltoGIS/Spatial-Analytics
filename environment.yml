@@ -52,6 +52,7 @@ dependencies:
   - polyline
   - pyarrow
   - pygeos
+  - pyinterpolate
   - pykrige
   - pyrosm
   - pysal
@@ -83,3 +84,7 @@ dependencies:
   - xarray-spatial
   - xlrd
   - xlsxwriter
+  - pip
+  - pip:
+      - mlrose-hiive
+      - vrpy

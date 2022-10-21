@@ -1,7 +1,7 @@
 Exercise 1
 ==========
 
-**Due date:** Please complete this exercise within **2 weeks** after the exercise has been released (on Wednesday by 23:59).
+**Due date:** Please complete this exercise by Sunday **2 weeks** after the exercise has been released (i.e. by Sunday 13th November).
 
 .. admonition:: Pre-assignment - Create a GitHub account
 

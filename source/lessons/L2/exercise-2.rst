@@ -1,7 +1,7 @@
 Exercise 2
 ==========
 
-**Due date:** Please complete this exercise within **2 weeks** after the exercise has been released (on Wednesday 24.11 by 23:59).
+**Due date:** Please complete this exercise by Sunday **2 weeks** after the exercise has been released (i.e. by Sunday 20th November).
 
 .. admonition:: Exercise 2 - Start your assignment
 

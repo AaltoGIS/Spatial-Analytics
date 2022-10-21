@@ -1,4 +1,4 @@
-jupyter-book>=0.7.0b
+jupyter-book
 sphinx-book-theme
 sphinx
 matplotlib
@@ -6,3 +6,5 @@ ipython
 jupyter-sphinx
 nbsphinx
 sphinxcontrib-bibtex
+MyST-NB
+nbconvert==6.4.4

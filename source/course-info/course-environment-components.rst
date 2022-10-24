@@ -79,10 +79,8 @@ CSC Notebooks is available only for students who are affiliated with Finnish uni
 .. note:: **Repeat these steps every time when starting to work on a programming task using the CSC Notebooks:**
 
     1. Log in at https://notebooks.csc.fi/
-    2. Click ``Launch new`` on the Dashboard
+    2. Click ``Start session`` (power button) on the Dashboard for Spatial Analytics 2022
     3. Wait. It might take a few moments for the instance to launch
-    4. Click ``Open in browser`` once the instance is ready
-    5. If you are asked to ``Click to copy password & proceed``, then click on the button, and paste the password on the following page
 
 .. figure:: img/CSC_launch_new.png
    :alt: Launch new Jupyter Lab instance

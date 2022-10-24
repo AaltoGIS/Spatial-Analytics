@@ -62,14 +62,18 @@ CSC Notebooks
 Notebooks by CSC (https://notebooks.csc.fi) is a computing environment hosted by the Finnish IT Center for Science (CSC). CSC notebooks are used for running Jupyter Notebooks in a customized cloud computing environment.
 CSC Notebooks is available only for students who are affiliated with Finnish universities and research institutes (via the HAKA user authentication).
 
+
 .. note:: **When using the CSC Notebooks for the first time, you need to join the group created for this course:**
 
-    1. Go to this link: https://notebooks.csc.fi/#/blueprint/71ff547e8de945969fd096a04ab03bcf
-    2. Join group **Spatial-Analytics** using the joining code: ``spatial-analytics-zkvkj``
+    1. Log in at https://notebooks.csc.fi/
+    2. Select Haka for the authentication provider
+    3. Enter your Finnish university login credentials
+    4. Click on the **Join workspace** button on the top right
+    5. Join the ``Spatial Analytics 2022`` workspace using the join code ``spa-ijgrbw5t``
 
-    After joining the group, you should be able to view an environment called `Spatial-Analytics` on the Dashboard.
+    After joining the group, you should be able to view an environment called ``Spatial Analytics 2022`` on the Dashboard.
 
-.. figure:: img/CSC_join_group.png
+.. figure:: img/CSC_join_group.webp
    :alt: Join Group in CSC Notebooks
 
 .. note:: **Repeat these steps every time when starting to work on a programming task using the CSC Notebooks:**

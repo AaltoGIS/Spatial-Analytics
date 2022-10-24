@@ -76,11 +76,6 @@ discuss and work together with other students while working on the weekly exerci
     You can find buttons for activating the python environment using `Binder <https://mybinder.readthedocs.io/en/latest/>`__ at the top of each programming lesson.
     Students at Finnish higher education institutions are encouraged to use the `CSC notebooks <https://notebooks.csc.fi/>`__ environment.
 
-.. admonition:: Online teaching
-
-    Please note that the course is organized completely online during the 2021 Fall semester.
-    Access to zoom, slack and CSC notebooks is available to students at Finnish higher education institutes.
-
 Program
 -------
 

@@ -1,18 +1,11 @@
 General info
 ============
 
-.. admonition:: Contact teaching for Aalto University students
-
-    Please note that access to zoom, Slack and CSC notebooks is only available for students in Finnish higher education institutes.
-
-
 Course meetings in teaching period II
 -------------------------------------
 
-- Lessons on Tuesdays 12:15-14:00 and Thursdays 13:15-15:00 (in Zoom)
-- Exercise sessions on Wednesdays 12:15-14:00
-
-You can find the `Zoom link from MyCourses <https://mycourses.aalto.fi/course/view.php?id=32325>`__ (requires login, only accessible to course students).
+- Lessons on Tuesdays 12:15-14:00 and Thursdays 13:15-15:00 (room 326 at Otakaari 4). Videos will be shared afterwards.
+- Exercise sessions on Wednesdays 12:15-14:00 (room 229 in Maarintalo, Sähkömiehentie 3). In-person only.
 
 Instructors
 -----------
@@ -20,6 +13,8 @@ Instructors
 * Henrikki Tenkanen
 
 Email: *firstname.lastname@aalto.fi*
+
+* Course assistant: Osama Bin Shafaat
 
 Course websites
 ---------------

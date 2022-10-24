@@ -96,12 +96,12 @@ We are then presented with our Personal access token, click the copy button to c
 
 Open a text document and copy and paste your Personal access token in your text file, because for now we are going to use it like this, and we will later see how we can cache it so that we don't need to copy and paste it every time we need it. If your access token is lost, then you can just follow the steps above again to create a new one.
 
-Now the first thing we need is the URL of your exercise repository from GitHub. **Go to** https://github.com/Spatial-Analytics-2021/ **and navigate to your personal Exercise-1 repository.**
+Now the first thing we need is the URL of your exercise repository from GitHub. **Go to** https://github.com/Spatial-Analytics-2022/ **and navigate to your personal Exercise-1 repository** (e.g. `exercise-1-HTenkanen`)
 
 On GitHub, find the button **Code** and copy the url under *Clone with HTTPS*.
 
 The URL looks something like this:
-https://github.com/Spatial-Analytics-2021/exercise-1-HTenkanen.git but with your own username.
+https://github.com/Spatial-Analytics-2022/exercise-1-HTenkanen.git but with your own username.
 
 .. figure:: img/git-copy-url.png
 
@@ -244,7 +244,7 @@ Now we are ready to push the local changes to GitHub using :code:`git push` (but
 
 .. figure:: img/git-plugin-push-ok.png
 
-Now you should see the updates in GitHub! Go and have a look at your personal repository in https://github.com/Spatial-Analytics-2021/ .
+Now you should see the updates in GitHub! Go and have a look at your personal repository in https://github.com/Spatial-Analytics-2022/ .
 
 On the command line, ``git pull`` fetches and merges changes from the remote repository, and ``git pull`` publishes local changes.
 

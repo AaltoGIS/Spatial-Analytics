@@ -10,7 +10,7 @@ During this course, we will use different tools and applications for programming
 5. `Slack`_ for communicating among Aalto students
 
 JupyterLab
-------------
+----------
 `JupyterLab <https://jupyterlab.readthedocs.io/en/stable/getting_started/overview.html>`__ is an open-source web-based user interface for doing data science.
 The JupyterLab interface consists of different components such as a file browser, terminal, image viewer, console, text editor, etc.
 
@@ -73,6 +73,8 @@ CSC Notebooks is available only for students who are affiliated with Finnish uni
 
 .. figure:: img/CSC_join_group.webp
    :alt: Join Group in CSC Notebooks
+
+**Remember to save your work!**
 
 .. note:: **Repeat these steps every time when starting to work on a programming task using the CSC Notebooks:**
 

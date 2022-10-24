@@ -23,7 +23,7 @@ Course websites
 
   - Main course site: `<https://spatial-analytics.readthedocs.io>`_
   - Notebooks by CSC: `<https://notebooks.csc.fi>`_
-  - Slack (Q&A + chat): `<https://Spatial-Analytics-2021.slack.com>`_
+  - Slack (Q&A + chat): `<https://spatialanalytics-2022.slack.com>`_
   - Polling / voting (active during lectures only): `presemo.aalto.fi/sds <https://presemo.aalto.fi/sds/>`__
 
 - Other useful resources:

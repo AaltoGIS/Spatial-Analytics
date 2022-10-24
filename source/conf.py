@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Spatial-Analytics'
-copyright = '2021, Henrikki Tenkanen, Dept. of Built Environment, Aalto University'
+copyright = '2022, Henrikki Tenkanen, Dept. of Built Environment, Aalto University'
 author = 'Henrikki Tenkanen'
 
 # -- General configuration ---------------------------------------------------
@@ -75,7 +75,7 @@ html_theme_options = {
     "use_edit_page_button": True,
     "use_repository_button": True,
     "launch_buttons": {
-        "binderhub_url": "https://mybinder.org",
+        "binderhub_url": "https://notebooks.gesis.org/binder",
         "thebe": False,
         "notebook_interface": "jupyterlab",
         "collapse_navigation": False,

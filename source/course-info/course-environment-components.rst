@@ -8,8 +8,6 @@ During this course, we will use different tools and applications for programming
 3. `Git and GitHub`_ for version control and documentation
 4. `Voting / polling  <#voting-and-polling>`_ for interactive questions during the lectures
 5. `Slack`_ for communicating among Aalto students
-6. `Zoom`_ for live session at Aalto
-
 
 JupyterLab
 ------------
@@ -151,14 +149,9 @@ Slack
 ------
 
 During the course we will use actively an application called `Slack <http://slack.com>`__ for discussion and
-questions about the lessons and exercises. All enrolled students have received an invite link to the `Spatial-Analytics-2021` workspace at the start of the course.
+questions about the lessons and exercises. All enrolled students have received an invite link to the `Spatial-Analytics-2022` workspace at the start of the course.
 :doc:`If Slack is new to you, check Slack basic usage instructions <slack-usage>`.
 
-Zoom
-------
-
-We will use zoom during the live sessions at Aalto University during the remote teaching period in Fall 2021.
-Zoom link and details will be shared in Slack and sent out via email to registered students.
 
 Page summary
 ------------

@@ -6,3 +6,4 @@ Readings
 - Haining, R. & G. Li (2020). *Modelling Spatial and Spatial-Temporal Data - A Bayesian Approach.*
 - Chun, Y. & D. Griffith. (2013). *Spatial statistics & Geostatistics*.
 - O'Sullivan, D. & D. Unwin (2010). *Geographic information analysis*. --> Is available from the Aalto's library.
+- Franklin, R. (2022). `Quantitative methods I: Reckoning with uncertainty <https://journals.sagepub.com/doi/10.1177/03091325211063635>`__

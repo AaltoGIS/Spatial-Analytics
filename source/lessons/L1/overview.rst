@@ -31,6 +31,16 @@ Lesson videos
             :width: 500px
             :align: left
 
+.. admonition:: Lesson 1.3 - Point Pattern Analysis Part 2/2; Spatial processes; Spatial autocorrelation
+
+    Aalto University students can access the video by clicking the image below (requires login):
+
+    .. figure:: img/Lesson1.3.png
+        :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=54122dfb-9c97-4665-95d3-af3b013e76fc
+        :width: 500px
+        :align: left
+
+
 .. admonition:: Tutorial 1.2 - Introduction to Python for geospatial analysis (a video from 2021)
 
     Aalto University students can access the video by clicking the image below (requires login):
@@ -39,5 +49,6 @@ Lesson videos
         :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=3556c9f2-2b27-4ec7-81c4-add60078d347
         :width: 500px
         :align: left
+
 
 

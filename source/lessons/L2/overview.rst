@@ -4,8 +4,8 @@ Overview
 In this week, we will learn about:
 
 - :doc:`Analysis of spatial field data; Spatial sampling; Spatial interpolation <analysis-of-spatial-field-data>`
-- :doc:`Geostatistics: IDW and Kriging interpolation <geostatistics-kriging>`
-- :doc:`Exercise 2 <exercise-2>`
+.. - :doc:`Geostatistics: IDW and Kriging interpolation <geostatistics-kriging>`
+.. - :doc:`Exercise 2 <exercise-2>`
 
 Lesson videos
 -------------

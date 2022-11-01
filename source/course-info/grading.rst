@@ -7,11 +7,6 @@ Course grade will be based on 1) weekly exercises and 2) final exam.
 The final grade is based 50 % on the weekly exercise submissions and 50 % of the final exam.
 At least half of the points from both exercises and exam is needed to pass the course.
 
-.. note:: Please submit your exercise reports on time
-
-          Generally, weekly exercises are due in one week's time (before the exercise session in the following week of exercise assignment).
-          Please let the instructors know before the deadline if you anticipate you will not be able to submit on time.
-
 
 Preliminary grading thresholds:
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

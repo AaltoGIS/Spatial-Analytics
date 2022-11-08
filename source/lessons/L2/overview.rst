@@ -5,7 +5,7 @@ In this week, we will learn about:
 
 - :doc:`Analysis of spatial field data; Spatial sampling; Spatial interpolation <analysis-of-spatial-field-data>`
 - :doc:`Exercise 2 <exercise-2>`
-.. - :doc:`Geostatistics: IDW and Kriging interpolation <geostatistics-kriging>`
+- :doc:`Geostatistics: IDW and Kriging interpolation <geostatistics-kriging>`
 
 Lesson videos
 -------------
@@ -19,20 +19,11 @@ Lesson videos
         :width: 500px
         :align: left
 
-..    .. admonition:: Lesson 2.2 - Geostatistics: IDW and Kriging interpolation
+.. admonition:: Lesson 2.2 - Geostatistics: IDW and Kriging interpolation
 
-        Aalto University students can access the video by clicking the image below (requires login):
+    Aalto University students can access the video by clicking the image below (requires login):
 
-        .. figure:: img/Lesson2.2.png
-            :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=0b0b14d9-0f00-4981-8ef1-adde008e98aa
-            :width: 500px
-            :align: left
-
-    .. admonition:: Exercise 2 - Overview
-
-        Aalto University students can access the video by clicking the image below (requires login):
-
-        .. figure:: img/Lesson2-E2.png
-            :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=bc1f3e72-a44f-47c5-ad79-addc00fdb0b8
-            :width: 500px
-            :align: left
+    .. figure:: img/Lesson2.2.png
+        :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=f4400ac4-e4fd-4310-beb6-af4700877d3f
+        :width: 500px
+        :align: left

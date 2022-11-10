@@ -160,8 +160,8 @@ Contents
 
     lessons/L3/overview
     lessons/L3/map-overlay
+    lessons/L3/spatial-network-analysis
 
-        lessons/L3/spatial-network-analysis
         lessons/L3/exercise-3
 
     .. toctree::

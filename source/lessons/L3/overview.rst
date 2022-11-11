@@ -5,7 +5,7 @@ In this week, we will learn about:
 
 - :doc:`Map overlay and map algebra <map-overlay>`
 - :doc:`Introduction to spatial network analysis <spatial-network-analysis>`
-.. - :doc:`Exercise 3 <exercise-3>`
+- :doc:`Exercise 3 <exercise-3>`
 
 
 Lesson videos

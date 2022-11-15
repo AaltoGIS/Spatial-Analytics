@@ -11,19 +11,16 @@ In this week, we will learn about:
 Lesson videos
 -------------
 
-To be added.
+.. admonition:: Lesson 4.1 - Spatial network analysis: Optimization & Centrality indicators
 
-..
-    .. admonition:: Lesson 4.1 - Spatial network analysis: Optimization & Centrality indicators
+    Aalto University students can access the video by clicking the image below (requires login):
 
-        Aalto University students can access the video by clicking the image below (requires login):
+    .. figure:: img/Lesson4.1.png
+        :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=9fa0f93c-54a2-4c5b-bb9f-af4e011723e3
+        :width: 500px
+        :align: left
 
-        .. figure:: img/Lesson4.1.png
-            :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=8fdfd6ea-90ec-4617-9db6-ade900f2384c
-            :width: 500px
-            :align: left
-
-    .. admonition:: Lesson 4.2 - Multivariate Spatial Analysis
+..    .. admonition:: Lesson 4.2 - Multivariate Spatial Analysis
 
         Aalto University students can access the video by clicking the image below (requires login):
 

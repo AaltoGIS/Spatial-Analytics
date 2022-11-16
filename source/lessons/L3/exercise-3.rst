@@ -10,7 +10,7 @@ Exercise 3
     After you have your personal Exercise-3 exercise in GitHub, start doing the programming using CSC Notebooks:
 
     .. image:: https://img.shields.io/badge/launch-CSC%20notebook-blue.svg
-        :target: https://notebooks.csc.fi/#/blueprint/71ff547e8de945969fd096a04ab03bcf
+        :target: https://notebooks.csc.fi
 
 You can also take a look at the open course copy of `Exercise 3 in the course GitHub repository <https://github.com/Spatial-Analytics-2022/Exercise-3>`__ (does not require logging in).
 Note that you should not try to make changes to this copy of the exercise, but rather only to the copy available via GitHub Classroom.

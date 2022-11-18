@@ -20,11 +20,11 @@ Lesson videos
         :width: 500px
         :align: left
 
-..    .. admonition:: Lesson 4.2 - Multivariate Spatial Analysis
+.. admonition:: Lesson 4.2 - Multivariate Spatial Analysis
 
-        Aalto University students can access the video by clicking the image below (requires login):
+    Aalto University students can access the video by clicking the image below (requires login):
 
-        .. figure:: img/Lesson4.2.png
-            :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1c6ae28c-6e4c-4c6f-92e9-adeb00e37d5f
-            :width: 500px
-            :align: left
+    .. figure:: img/Lesson4.2.png
+        :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d33ee515-6662-46d2-ab17-af510071ae3c
+        :width: 500px
+        :align: left

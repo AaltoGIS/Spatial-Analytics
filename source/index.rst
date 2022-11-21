@@ -172,10 +172,9 @@ Contents
     lessons/L4/multivariate-spatial-analysis
     lessons/L4/exercise-4
 
-    .. toctree::
-        :maxdepth: 1
-        :caption: Week 5
+.. toctree::
+    :maxdepth: 1
+    :caption: Week 5
 
-        lessons/L5/overview
-        lessons/L5/visual-analytics
-
+    lessons/L5/overview
+    lessons/L5/visual-analytics

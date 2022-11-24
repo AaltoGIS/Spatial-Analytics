@@ -178,3 +178,4 @@ Contents
 
     lessons/L5/overview
     lessons/L5/visual-analytics
+    lessons/L5/final-remarks

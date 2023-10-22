@@ -5,7 +5,7 @@ Course meetings in teaching period II
 -------------------------------------
 
 - Lessons on Tuesdays 12:15-14:00 and Thursdays 13:15-15:00 (room 326 at Otakaari 4). Videos will be shared afterwards.
-- Exercise sessions on Wednesdays 12:15-14:00 (room 229 in Maarintalo, Sähkömiehentie 3). In-person only.
+- Exercise sessions on Wednesdays 12:15-14:00 (room Maari C-D (Win) in Maarintalo, Sähkömiehentie 3). In-person only.
 
 Instructors
 -----------
@@ -14,7 +14,9 @@ Instructors
 
 Email: *firstname.lastname@aalto.fi*
 
-* Course assistant: Osama Bin Shafaat
+* Guest lecturer: Pyry Kettunen, FGI
+
+* Course assistant: Meeri Näppilä
 
 Course websites
 ---------------
@@ -23,7 +25,7 @@ Course websites
 
   - Main course site: `<https://spatial-analytics.readthedocs.io>`_
   - Notebooks by CSC: `<https://notebooks.csc.fi>`_
-  - Slack (Q&A + chat): `<https://spatialanalytics-2022.slack.com>`_
+  - Slack (Q&A + chat): `<https://spatialanalytics-2023.slack.com>`_
   - Polling / voting (active during lectures only): `presemo.aalto.fi/sds <https://presemo.aalto.fi/sds/>`__
 
 - Other useful resources:

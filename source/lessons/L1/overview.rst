@@ -15,7 +15,7 @@ Lesson videos
 
 To be added.
 
-    .. admonition:: Lesson 1.1 - Course overview; Introduction to spatial analysis; Point pattern analysis Part 1/2
+    .. .. admonition:: Lesson 1.1 - Course overview; Introduction to spatial analysis; Point pattern analysis Part 1/2
 
         Aalto University students can access the video by clicking the image below (requires login):
 

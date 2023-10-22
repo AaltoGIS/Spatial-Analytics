@@ -9,10 +9,10 @@ During this course we will use `Slack <http://slack.com>`__ for discussion and q
 Accessing the workspace in Slack
 --------------------------------
 
-We will send an invitation link for all enrolled students to the Slack Team called ``Spatial-Analytics-2022``.
+We will send an invitation link for all enrolled students to the Slack Team called ``Spatial-Analytics-2023``.
 Before you can start using Slack, you should create a new account for Slack (if you don't have one already) and accept the invitation you have received.
 
-**After accepting the invitation, you can access the course Slack team via this link:** `<https://spatialanalytics-2022.slack.com>`__
+**After accepting the invitation, you can access the course Slack team via this link:** `<https://spatialanalytics-2023.slack.com>`__
 
 General guidelines for communication
 ------------------------------------
@@ -23,7 +23,7 @@ Here we have few general guidelines for using Slack to keep things well organize
 
 1. **You should always select the right channel for your question!**
 
- - If you have question e.g. related to week 1 lesson or exercise, you make your question in channel ``lesson-01``.
+ - If you have question e.g. related to week 1 lesson or exercise, you make your question in channel ``week-1``.
  - If you want to share a funny GIF you found online, you can post it into channel ``random``.
 
 2. Use threads to maintain the discussion of specific topic under the same question / comment.
@@ -33,8 +33,6 @@ Here we have few general guidelines for using Slack to keep things well organize
 4. **Discuss and comment!** If you see a question and you know how to help, we encourage you to comment and help your friend.
 
 5. **HOWEVER: DON'T PROVIDE READY ANSWERS** in the discussion (such as all necessary codes for given problem), it does not help your friend to learn.
-
-6. **If you need one-on-one assistance via Zoom** e.g. related to an exercise, add a message to the channel (e.g. ``lesson-01``) with a short description of your problem **and add a link to your zoom meeting** which we can easily join. If you haven't started a Zoom meeting before, see this `help <https://support.zoom.us/hc/en-us/articles/201362183-Inviting-others-to-join-a-meeting>`__. For instance, ``"I need help with spatial join on Exercise 1. Zoom link: https://us04web.zoom.us/j/123456789 "``.
 
 With these guidelines we keep our discussion well organized and it is easy for everybody to find help and relevant discussion about specific lessons / exercises.
 

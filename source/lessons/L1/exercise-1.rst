@@ -1,7 +1,7 @@
 Exercise 1
 ==========
 
-**Due date:** Please complete this exercise by Sunday **2 weeks** after the exercise has been released (i.e. by Sunday 13th November).
+**Due date:** Please complete this exercise by Sunday **2 weeks** after the exercise has been released (i.e. by Sunday 12th November).
 
 .. admonition:: Pre-assignment - Create a GitHub account
 
@@ -20,7 +20,7 @@ Exercise 1
 
 .. admonition:: Exercise 1 - Start your assignment
 
-    You can start working on your personal (private) copy of Exercise 1 by `accepting the GitHub Classroom assignment <https://classroom.github.com/a/NrTy_ciR>`__. Notice that if you are using
+    You can start working on your personal (private) copy of Exercise 1 by `accepting the GitHub Classroom assignment <https://classroom.github.com/a/3XHPQ7gm>`__. Notice that if you are using
     GitHub Classroom for the first time, it might ask from you a permission to verify your GitHub identity. In such case, choose "Authorize GitHub Classroom".
 
     After you have your personal Exercise-1 exercise in GitHub, start doing the programming using CSC Notebooks:
@@ -28,7 +28,7 @@ Exercise 1
     .. image:: https://img.shields.io/badge/launch-CSC%20notebook-blue.svg
         :target: https://notebooks.csc.fi
 
-You can also take a look at the open course copy of `Exercise 1 in the course GitHub repository <https://github.com/Spatial-Analytics-2022/Exercise-1>`__ (does not require logging in).
+You can also take a look at the open course copy of `Exercise 1 in the course GitHub repository <https://github.com/Spatial-Analytics-2023/Exercise-1>`__ (does not require logging in).
 Note that you should not try to make changes to this copy of the exercise, but rather only to the copy available via GitHub Classroom.
 
 .. note::

@@ -29,7 +29,7 @@ at `autogis.github.io <https://autogis.github.io/>`__. Both of these courses inc
 
 .. admonition:: Help improving the materials
 
-    **This is version 2.**
+    **This is version 3.**
 
     The course was given for the very first time in its current form in 2021, meaning that the content of the course is likely to change and
     improve after each time the course is given (all versions will be available). By being a fully open
@@ -111,6 +111,8 @@ Topics per Lesson are listed below. Please note that this web page is updated ea
       - - Multivariate spatial analysis
     * - 9
       - - Visual analytics
+    * - 10
+      - - Geovisual user interface design
 |
 
 Contents
@@ -136,46 +138,45 @@ Contents
 
     lessons/L1/overview
     lessons/L1/introduction-to-spatial-analysis
-    lessons/L1/point-pattern-analysis
-    lessons/L1/spatial-autocorrelation
-    lessons/L1/git-basics
-    lessons/L1/intro-to-python-geostack.ipynb
-    lessons/L1/exercise-1
+    .. lessons/L1/point-pattern-analysis
+    .. lessons/L1/spatial-autocorrelation
+    .. lessons/L1/git-basics
+    .. lessons/L1/intro-to-python-geostack.ipynb
+    .. lessons/L1/exercise-1
 
 
-.. toctree::
-    :maxdepth: 1
-    :caption: Week 2
+..    .. toctree::
+        :maxdepth: 1
+        :caption: Week 2
 
-    lessons/L2/overview
-    lessons/L2/analysis-of-spatial-field-data
-    lessons/L2/geostatistics-kriging.rst
-    lessons/L2/exercise-2
+        lessons/L2/overview
+        lessons/L2/analysis-of-spatial-field-data
+        lessons/L2/geostatistics-kriging.rst
+        lessons/L2/exercise-2
 
 
+    .. toctree::
+        :maxdepth: 1
+        :caption: Week 3
 
-.. toctree::
-    :maxdepth: 1
-    :caption: Week 3
+        lessons/L3/overview
+        lessons/L3/map-overlay
+        lessons/L3/spatial-network-analysis
+        lessons/L3/exercise-3
 
-    lessons/L3/overview
-    lessons/L3/map-overlay
-    lessons/L3/spatial-network-analysis
-    lessons/L3/exercise-3
+    .. toctree::
+        :maxdepth: 1
+        :caption: Week 4
 
-.. toctree::
-    :maxdepth: 1
-    :caption: Week 4
+        lessons/L4/overview
+        lessons/L4/spatial-network-optimization-centrality
+        lessons/L4/multivariate-spatial-analysis
+        lessons/L4/exercise-4
 
-    lessons/L4/overview
-    lessons/L4/spatial-network-optimization-centrality
-    lessons/L4/multivariate-spatial-analysis
-    lessons/L4/exercise-4
+    .. toctree::
+        :maxdepth: 1
+        :caption: Week 5
 
-.. toctree::
-    :maxdepth: 1
-    :caption: Week 5
-
-    lessons/L5/overview
-    lessons/L5/visual-analytics
-    lessons/L5/final-remarks
+        lessons/L5/overview
+        lessons/L5/visual-analytics
+        lessons/L5/final-remarks

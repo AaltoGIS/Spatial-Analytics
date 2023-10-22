@@ -24,7 +24,7 @@ To be added.
             :width: 500px
             :align: left
 
-    .. admonition:: Lesson 1.2 - Introduction to the computing environment; Introduction to Version control; How to work with the exercises?
+    .. .. admonition:: Lesson 1.2 - Introduction to the computing environment; Introduction to Version control; How to work with the exercises?
 
             Aalto University students can access the video by clicking the image below (requires login):
 
@@ -33,7 +33,7 @@ To be added.
                 :width: 500px
                 :align: left
 
-    .. admonition:: Lesson 1.3 - Point Pattern Analysis Part 2/2; Spatial processes; Spatial autocorrelation
+    .. .. admonition:: Lesson 1.3 - Point Pattern Analysis Part 2/2; Spatial processes; Spatial autocorrelation
 
         Aalto University students can access the video by clicking the image below (requires login):
 
@@ -43,7 +43,7 @@ To be added.
             :align: left
 
 
-    .. admonition:: Tutorial 1.2 - Introduction to Python for geospatial analysis (a video from 2021)
+    .. .. admonition:: Tutorial 1.2 - Introduction to Python for geospatial analysis (a video from 2021)
 
         Aalto University students can access the video by clicking the image below (requires login):
 

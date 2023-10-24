@@ -122,7 +122,6 @@ Contents
     :maxdepth: 1
     :caption: Course information
 
-    course-info/introduction
     course-info/course-info
     course-info/learning-goals
     course-info/resources
@@ -136,6 +135,7 @@ Contents
     :maxdepth: 1
     :caption: Week 1
 
+    course-info/introduction
     lessons/L1/overview
     lessons/L1/introduction-to-spatial-analysis
     .. lessons/L1/point-pattern-analysis

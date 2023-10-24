@@ -67,9 +67,9 @@ CSC Notebooks is available only for students who are affiliated with Finnish uni
     2. Select Haka for the authentication provider
     3. Enter your Finnish university login credentials
     4. Click on the **Join workspace** button on the top right
-    5. Join the ``Spatial Analytics 2022`` workspace using the join code ``spa-ijgrbw5t``
+    5. Join the ``Spatial Analytics 2023`` workspace using the join code ``spa-svhvj2vm``
 
-    After joining the group, you should be able to view an environment called ``Spatial Analytics 2022`` on the Dashboard.
+    After joining the group, you should be able to view an environment called ``Spatial Analytics 2023`` on the Dashboard.
 
 .. figure:: img/CSC_join_group.webp
    :alt: Join Group in CSC Notebooks

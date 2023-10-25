@@ -49,59 +49,62 @@ Create a Personal Access Token
 
 Before we start cloning our repository from GitHub, we need to create a Personal Access Token for us to be able to interact with GitHub. We will go through the basic setup here, you can also find more detailed instructions in the `GitHub documentation <https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token>`_.
 
-If you have not already verified your email address, make sure to do so in your GitHub-settings (`GitHub email verification <https://docs.github.com/en/get-started/signing-up-for-github/verifying-your-email-address>`_). On GitHub, go into your settings.
+1. If you have not already verified your email address, make sure to do so in your GitHub-settings (`GitHub email verification <https://docs.github.com/en/get-started/signing-up-for-github/verifying-your-email-address>`_). On GitHub, go into your settings.
 
 .. image:: https://docs.github.com/assets/images/help/settings/userbar-account-settings.png
     :width: 200
 
-Go to the **developer settings** in the left sidebar.
+2. Go to the **developer settings** in the left sidebar.
 
 .. image:: https://docs.github.com/assets/images/help/settings/developer-settings.png
     :width: 200
 
-Then click on **Personal access tokens**.
+3. Then click on **Personal access tokens**.
 
 .. image:: https://docs.github.com/assets/images/help/settings/personal_access_tokens_tab.png
     :width: 200
 
-Then we will create the token by clicking on **Generate new token**.
+4. Click **Tokens (classic)**.
+
+5. Then we will create the token by clicking on **Generate new token (classic)**.
 
 .. image:: https://docs.github.com/assets/images/help/settings/generate_new_token.png
     :width: 500
 
-Start by giving your token a name.
+6. Start by giving your token a name.
 
 .. image:: img/token_name.png
     :width: 500
 
-We will then give the token a expiration date. You can choose the duration you prefer, here we set it to the end of the year.
+7. We will then give the token a expiration date. You can choose the duration you prefer, here we set it to the end of the year.
 
 .. image:: img/token_expiration.png
     :width: 300
 
-Next, we need to set the permissions, or scopes, that our token is granted. We are going to need it to be able to access and change our repositories. For that, we can select the check marks **repo**, **admin:repo_hook**, and **delete_repo**.
+8. Next, we need to set the permissions, or scopes, that our token is granted. We are going to need it to be able to access and change our repositories. For that, we can select the check marks **repo**, **admin:repo_hook**, and **delete_repo**.
 
 .. image:: img/token_scopes.png
     :width: 500
 
-Then we can click the **Generate token** button to create and see our token.
+9. Then we can click the **Generate token** button to create and see our token.
 
 .. image:: https://docs.github.com/assets/images/help/settings/generate_token.png
     :width: 350
 
-We are then presented with our Personal access token, click the copy button to copy it to your clipboard and then paste it into your text file in the JupyterLab session.
+10. We are then presented with our Personal access token. Do following:
+   - Click the copy button to copy it to your clipboard and then paste it into your text file in the JupyterLab session.
 
 .. image:: https://docs.github.com/assets/images/help/settings/personal_access_tokens.png
     :width: 500
 
 Open a text document and copy and paste your Personal access token in your text file, because for now we are going to use it like this, and we will later see how we can cache it so that we don't need to copy and paste it every time we need it. If your access token is lost, then you can just follow the steps above again to create a new one.
 
-Now the first thing we need is the URL of your exercise repository from GitHub. **Go to** https://github.com/Spatial-Analytics-2022/ **and navigate to your personal Exercise-1 repository** (e.g. `exercise-1-HTenkanen`)
+Now the first thing we need is the URL of your exercise repository from GitHub. **Go to** https://github.com/Spatial-Analytics-2023/ **and navigate to your personal Exercise-1 repository** (e.g. `exercise-1-HTenkanen`)
 
 On GitHub, find the button **Code** and copy the url under *Clone with HTTPS*.
 
 The URL looks something like this:
-https://github.com/Spatial-Analytics-2022/exercise-1-HTenkanen.git but with your own username.
+https://github.com/Spatial-Analytics-2023/exercise-1-HTenkanen.git but with your own username.
 
 .. figure:: img/git-copy-url.png
 

@@ -127,6 +127,7 @@ Contents
     course-info/resources
     course-info/grading
     course-info/course-environment-components
+    course-info/installing-miniconda
     course-info/slack-usage
     course-info/License-terms
     course-info/attribution

@@ -90,7 +90,7 @@ We can install mamba by **opening an Anaconda prompt (miniconda)** and running t
 .. code-block:: bash
 
     # Install mamba
-    conda install mamba -n base -c conda-forge
+    conda install --override-channels -c conda-forge mamba 'python_abi=*=*cp*'
 
 If you're curious, you can find more about mamba in the `online user guide <https://mamba.readthedocs.io/en/latest/index.html>`__ which covers most of the basic things, such as installing new packages.
 

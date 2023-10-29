@@ -36,6 +36,7 @@ dependencies:
   - plotly=5.17.0
   - pyinterpolate
   - pykrige
+  - pyrosm
   - pysal
   - pyogrio=0.6.0
   - python-igraph=0.10.8

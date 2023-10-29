@@ -36,6 +36,7 @@ dependencies:
   - pandas<2.1.0
   - plotly=5.17.0
   - pyinterpolate
+  - pyrosm
   - pykrige
   - pysal
   - pyogrio=0.6.0

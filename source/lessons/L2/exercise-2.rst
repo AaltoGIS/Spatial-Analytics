@@ -7,7 +7,7 @@ Exercise 2
 
     You can start working on your personal (private) copy of Exercise 2 by:
 
-      - `accepting the GitHub Classroom assignment <https://classroom.github.com/a/HibvOsCz>`__.
+    - `accepting the GitHub Classroom assignment <https://classroom.github.com/a/HibvOsCz>`__.
 
 Notice that if you are using GitHub Classroom for the first time, it might ask from you a permission to verify your GitHub identity.
 In such case, choose "Authorize GitHub Classroom". You can also take a look at the open course copy of `Exercise 2 in the course GitHub repository <https://github.com/Spatial-Analytics-2023/Exercise-2>`__ (does not require logging in).

@@ -157,16 +157,16 @@ Contents
    lessons/L2/exercise-2
 
 
+.. toctree::
+    :maxdepth: 1
+    :caption: Week 3
+
+    lessons/L3/overview
+    lessons/L3/map-overlay
+    .. lessons/L3/spatial-network-analysis
+    .. lessons/L3/exercise-3
+
 ..    .. toctree::
-        :maxdepth: 1
-        :caption: Week 3
-
-        lessons/L3/overview
-        lessons/L3/map-overlay
-        lessons/L3/spatial-network-analysis
-        lessons/L3/exercise-3
-
-    .. toctree::
         :maxdepth: 1
         :caption: Week 4
 

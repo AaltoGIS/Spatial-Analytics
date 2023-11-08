@@ -34,7 +34,7 @@ dependencies:
   - palettable
   - pandas<2.1.0
   - plotly=5.17.0
-  - pyinterpolate
+  - pyinterpolate=0.4
   - pykrige
   - pyrosm
   - pysal

@@ -166,14 +166,14 @@ Contents
     lessons/L3/spatial-network-analysis
     lessons/L3/exercise-3
 
-..    .. toctree::
-        :maxdepth: 1
-        :caption: Week 4
+.. toctree::
+    :maxdepth: 1
+    :caption: Week 4
 
-        lessons/L4/overview
-        lessons/L4/spatial-network-optimization-centrality
-        lessons/L4/multivariate-spatial-analysis
-        lessons/L4/exercise-4
+    lessons/L4/overview
+    lessons/L4/spatial-network-optimization-centrality
+    .. lessons/L4/multivariate-spatial-analysis
+    .. lessons/L4/exercise-4
 
     .. toctree::
         :maxdepth: 1

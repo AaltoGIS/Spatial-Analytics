@@ -17,8 +17,8 @@ Cloud computing environment
 
 After you have your personal Exercise-2 exercise in GitHub, start doing the programming using CSC Notebooks:
 
-    .. image:: https://img.shields.io/badge/launch-CSC%20notebook-blue.svg
-        :target: https://notebooks.csc.fi
+.. image:: https://img.shields.io/badge/launch-CSC%20notebook-blue.svg
+    :target: https://notebooks.csc.fi
 
 .. note::
 

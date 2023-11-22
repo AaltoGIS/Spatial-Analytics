@@ -145,8 +145,6 @@ Contents
     lessons/L1/git-basics
     lessons/L1/exercise-1
 
-
-
 .. toctree::
    :maxdepth: 1
    :caption: Week 2
@@ -176,10 +174,9 @@ Contents
     lessons/L4/exercise-4
 
 
-    .. toctree::
+..    .. toctree::
         :maxdepth: 1
         :caption: Week 5
-
         lessons/L5/overview
         lessons/L5/visual-analytics
         lessons/L5/final-remarks

@@ -177,6 +177,7 @@ Contents
 .. toctree::
     :maxdepth: 1
     :caption: Week 5
+
     lessons/L5/overview
     lessons/L5/cartography-map-user-interfaces
     lessons/L5/visual-analytics

@@ -110,9 +110,10 @@ Topics per Lesson are listed below. Please note that this web page is updated ea
     * - 8
       - - Multivariate spatial analysis
     * - 9
-      - - Visual analytics
+      - - Cartography and Map User Interfaces
     * - 10
-      - - Geovisual user interface design
+      - - Visual analytics
+
 |
 
 Contents
@@ -174,9 +175,11 @@ Contents
     lessons/L4/exercise-4
 
 
-..    .. toctree::
-        :maxdepth: 1
-        :caption: Week 5
-        lessons/L5/overview
-        lessons/L5/visual-analytics
-        lessons/L5/final-remarks
+.. toctree::
+    :maxdepth: 1
+    :caption: Week 5
+
+    lessons/L5/overview
+    lessons/L5/cartography-map-user-interfaces
+    .. lessons/L5/visual-analytics
+    .. lessons/L5/final-remarks

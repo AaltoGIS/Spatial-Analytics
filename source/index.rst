@@ -110,9 +110,10 @@ Topics per Lesson are listed below. Please note that this web page is updated ea
     * - 8
       - - Multivariate spatial analysis
     * - 9
-      - - Visual analytics
-    * - 10
       - - Geovisual user interface design
+    * - 10
+      - - Visual analytics
+
 |
 
 Contents

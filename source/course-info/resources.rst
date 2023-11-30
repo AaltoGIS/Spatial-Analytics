@@ -7,3 +7,4 @@ Readings
 - Chun, Y. & D. Griffith. (2013). *Spatial statistics & Geostatistics*.
 - O'Sullivan, D. & D. Unwin (2010). *Geographic information analysis*. --> Is available from the Aalto's library.
 - Franklin, R. (2022). `Quantitative methods I: Reckoning with uncertainty <https://journals.sagepub.com/doi/10.1177/03091325211063635>`__
+- Kraak M., R.E. Roth, B. Ricker, A. Kagawa & G. Le Sourd (2020). `Mapping for a Sustainable World <https://digitallibrary.un.org/record/3898826>`__. United Nations: New York, NY (USA).
